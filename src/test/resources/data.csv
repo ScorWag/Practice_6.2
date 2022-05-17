@@ -1,0 +1,8 @@
+
+'shouldCalculateForRegisteredAndOverLimit',100000060,true,500
+'shouldCalculateForNotRegisteredAndUnderLimit',100060,false,10
+'shouldCalculateForNotRegisteredAndOverLimit',100000060,false,500
+'shouldCalculateFortRegisteredAndMinAmountWithBonus',3334,true,1
+'shouldCalculateFortRegisteredAndMinAmountNotBonus',3333,true,0
+'shouldCalculateFortNotRegisteredAndMinAmountWithBonus',10000,false,1
+'shouldCalculateFortNotRegisteredAndMinAmountNotBonus',9999,false,0
